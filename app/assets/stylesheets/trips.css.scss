@@ -1,0 +1,44 @@
+/*// Place all the styles related to the trips controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/*/
+
+$navbar-default-bg: #ff8c00;
+$light-orange: #ff8c00;
+$navbar-default-color: $light-orange;
+
+.row {
+	background-color: gold;
+}
+
+.col-md-1 {
+	border: 1px solid black;
+}
+
+.col-sm-6 {
+	border: 1px solid black;
+}
+
+.col-xs-6 {
+	border: 1px solid black;
+}
+
+.col-md-12 {
+	border: 1px solid black;
+	background-color: pink;
+}
+.col-sm-11 {
+	border: 1px solid black;
+}
+.col-md-4 {
+	border: 1px solid black;
+}
+
+.col-md-6 {
+	border: 1px solid black;
+}
+
+.col-md-8 {
+	border: 1px solid black;
+}
+
+@import "bootstrap";
